@@ -20,6 +20,8 @@ public class BuscaConcursoACT
 	
 	//alteração
 
+	
+	//alteração
 	public BuscaConcursoACT( String url ) throws IOException
 	{
 		this.url = url ;
