@@ -17,6 +17,8 @@ public class BuscaConcursoACT
 {
 
 	private final String url ;
+	
+	//alteração
 
 	public BuscaConcursoACT( String url ) throws IOException
 	{
